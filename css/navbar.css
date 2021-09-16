@@ -1,0 +1,19 @@
+.nav-link{
+	font-family: 'Baloo Bhai 2', cursive;
+	margin-right: 15px;
+	letter-spacing: 0.5px;
+	transition: 0.5s;
+	font-size: 1.5rem;
+}
+
+.navbar-brand{
+	font-family: 'Baloo Bhai 2', cursive;
+	font-size: 2.2rem;
+	text-transform: capitalize;
+}
+	
+h2{
+	letter-spacing: 0.5px;
+	font-family: 'Baloo Bhai 2', cursive;
+}
+
